@@ -3,7 +3,7 @@ layout: cv
 title: Nuno Pesikin's CV
 ---
 # 盖冉翔(Nuno Pesikin)
-Physicist, Mathematician, Cambridge professor.
+学生，牛客网算法实习生，NLP爱好者
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## 当前
 
-Standing on the shoulders of giants
+
 
 ### Specialized in
 
@@ -25,12 +25,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## 教育经历
 
-`1654-1660`
+`2014-2018`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`2018至今`
 __Trinity College, Cambridge__
 
 - Sizar
