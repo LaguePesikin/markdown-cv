@@ -17,7 +17,7 @@ title: Nuno Pesikin's CV
 
 ### 项目经历
 
-+ 本科毕业设计——基于mc-cnn的一种立体匹配算法
++ 本科毕业设计——基于mc-cnn的一种立体匹配算法<br/>
 a撒大声地
   
 + 2019年Deecamp人工智能夏令营——AI智能面试官
