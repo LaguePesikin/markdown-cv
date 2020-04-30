@@ -17,63 +17,25 @@ title: Nuno Pesikin's CV
 
 ### 项目经历
 
-+ 本科毕业设计——基于mc-cnn的一种立体匹配算法<br/>
-a撒大声地
++ 本科毕业设计——基于mc-cnn的一种立体匹配算法：<br/>
+
   
-+ 2019年Deecamp人工智能夏令营——AI智能面试官
++ 2019年Deecamp人工智能夏令营——AI智能面试官：<br/>
+作为第31组的组长，我和组员们共同设计了一套可用于辅助技术类岗位面试的算法，并将其整合到微信小程序中。该算法可以从技术题库中抽取面试题目对面试者进行考察，并根据其表现从**相似度、准确性、连贯性**三个方面进行打分，最终生成面试报告并给出合理的建议。<br/>
+其中相似度的评价采用
+
++ 利用yolov3进行作弊检测：<br/>
 
 
 ### 教育经历
 
 `2014-2018`
-__北京航空航天大学(BUAA)，导航专业，本科生__
+**北京航空航天大学(BUAA)，导航专业，本科生**
 
 `2018至今`
-__中国空间技术研究院(CAST)，控制与工程专业，硕士研究生__
+**中国空间技术研究院(CAST)，控制与工程专业，硕士研究生**
 
+### 
 
-### Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-### Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-
-
-### Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
