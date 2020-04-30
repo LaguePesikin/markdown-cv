@@ -2,7 +2,7 @@
 layout: cv
 title: Nuno Pesikin's CV
 ---
-# 盖冉翔(Nuno Pesikin)
+# 个人简历-盖冉翔(Nuno Pesikin)
 
 硕士研究生；牛客网算法实习生；NLP爱好者
 
