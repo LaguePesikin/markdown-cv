@@ -49,8 +49,8 @@ title: Nuno Pesikin's CV
 
 ### 专业能力
 
-常规的机器学习算法(神经网络、聚类、决策树等)、python编程以及第三方库(numpy,sklearn,pandas,pytorch等)的使用；
-掌握linux系统命令、shell编程；能够使用vim进行文本编辑，sed、grep等进行数据整理；
-掌握一些数据分析与挖掘知识；
-良好的英文水平，能够独立阅读并理解专业领域内的英文文献。
+常规的机器学习算法(神经网络、聚类、决策树等)、python编程以及第三方库(numpy,sklearn,pandas,pytorch等)的使用；<br/>
+掌握linux系统命令、shell编程；能够使用vim进行文本编辑，sed、grep等进行数据整理；<br/>
+掌握一些数据分析与挖掘知识；<br/>
+良好的英文水平，能够独立阅读并理解专业领域内的英文文献。<br/>
 
